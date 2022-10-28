@@ -1,4 +1,4 @@
-# Sustainable License Version 1.0 (SLv1)
+# SFSQL Sustainable License Version 1.0 (SFSQLSLv1)
 
 ## Acceptance
 
@@ -13,9 +13,8 @@ the limitations and conditions below.
 
 ## Limitations
 
-The software contains a module that allows the licensor to monetize your use of
-the software. You may not move, remove, change, disable, or circumvent this
-functionality in the software.
+The software requires a valid license to SchemfreeSQL in order to persist and retrieve data.
+You may not remove, disable, or circumvent this functionality in the software. 
 
 You may not alter, remove, or obscure any licensing, copyright, or other notices
 of the licensor in the software. Any use of the licensor’s trademarks is subject
